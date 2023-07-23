@@ -1,0 +1,17 @@
+{
+  "name": "test-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "Raphael Castro",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.0.0",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "cypress-real-events": "^1.9.1"
+  }
+}
